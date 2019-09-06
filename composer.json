@@ -1,0 +1,16 @@
+{
+    "name": "georg/pumpkin-pies-client",
+    "description": "Tarea php",
+    "type": "project",
+    "require": {
+        "zurb/foundation": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koke Gudiel",
+            "email": "kokegudiel2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

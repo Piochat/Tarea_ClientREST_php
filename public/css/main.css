@@ -1,0 +1,26 @@
+.principal {
+    background-image: url(https://pixabay.com/get/54e2d4454b56a414ea9d857ec22b367e1637c3e45657764e75277fd49f/batman-2216148.jpg);
+    -webkit-background-size: 100% 100%;           /* Safari 3.0 */
+    -moz-background-size: 100% 100%;           /* Gecko 1.9.2 (Firefox 3.6) */
+      -o-background-size: 100% 100%;           /* Opera 9.5 */
+         background-size: 100% 100%;           /* Gecko 2.0 (Firefox 4.0) and other CSS3-compliant browsers */
+         background-repeat: no-repeat;
+}
+
+body {
+    background-color: #222222;
+}
+
+.titulazo {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}
+
+.t_registro {
+    color: #ffffff;
+}
+
+.log-in-form {
+    background-color: #ffffff;
+    padding: 1em;
+}
